@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Good Movies</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tv_show">TV Shows</string>
+    <string name="title_detail">Detail</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="movie_poster">Poster</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="favorite">Favorite</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="rate_it">Rate it!</string>
+    <string name="overview">Overview</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="add_to_watchlist">Add to Watchlist</string>
+    <string name="remove_from_favorite">Remove from Favorite</string>
+    <string name="remove_from_watchlist">Remove from Watchlist</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="failed_to_load_movie">Failed to load Movies</string>
+    <string name="failed_to_load_tv_show">Failed to load TV Shows</string>
+
+</resources>

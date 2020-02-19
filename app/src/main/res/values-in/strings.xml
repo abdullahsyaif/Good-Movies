@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_movies">Film</string>
+    <string name="title_tv_show">Acara TV</string>
+    <string name="title_detail">Detail</string>
+    <string name="title_favorite">Favorit</string>
+
+    <string name="movie_poster">Poster</string>
+    <string name="play_trailer">Putar Trailer</string>
+    <string name="favorite">Favorit</string>
+    <string name="watchlist">Daftartonton</string>
+    <string name="rate_it">Beri Peringkat</string>
+    <string name="overview">Gambaran</string>
+    <string name="add_to_favorites">Tambah ke Favorit</string>
+    <string name="add_to_watchlist">Tambah ke Daftartonton</string>
+    <string name="remove_from_favorite">Hapus dari Favorit</string>
+    <string name="remove_from_watchlist">Hapus dari Daftartonton</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="failed_to_load_movie">Gagal memuat Film</string>
+    <string name="failed_to_load_tv_show">Gagal memuat Acara TV</string>
+</resources>
